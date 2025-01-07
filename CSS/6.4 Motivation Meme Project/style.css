@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1,p{
+    color: white;
+    font-family: "Forum", serif;
+    font-weight: 500;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+p{
+    font-size: 13px;
+}
+
+div{
+    width: 80%;
+    margin-left: 10%;
+}
+
+  
